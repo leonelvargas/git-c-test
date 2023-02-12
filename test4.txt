@@ -1,1 +1,1 @@
-test4 from GitHub 
+test4 from GitHub with Conflicts
